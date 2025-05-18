@@ -8,7 +8,7 @@ A visually stunning and responsive clone of Apple's official website, built with
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://your-live-demo-link.com)
+👉 [Click here to view the live site](https://a-pple-iphone15-rbaskey.netlify.app/)
 
 ---
 
