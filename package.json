@@ -10,9 +10,9 @@
     "preview": "vite preview"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "RBaskey",
+    "email": "rbaskeyofficial@gmail.com",
+    "url": "https://github.com/iam-rbaskey"
   },
   "description": "Modern iPhone 15 inspired website using Three.js and GSAP animations.",
   "keywords": [
@@ -45,23 +45,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/apple-clone.git"
+    "url": ""
   },
-  "homepage": "https://github.com/sanidhyy/apple-clone#readme",
+  "homepage": "",
   "bugs": {
-    "url": "https://github.com/sanidhyy/apple-clone/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "",
+    "email": ""
   },
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
-    }
-  ],
+  
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@react-three/drei": "^9.121.5",
