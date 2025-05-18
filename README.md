@@ -22,10 +22,10 @@ It was created for educational purposes to practice HTML, CSS, and JavaScript, a
 
 ## 🛠️ Built With
 
-- ✅ HTML5
-- ✅ CSS3
-- ✅ JavaScript (Vanilla JS)
-- ✅ Flexbox & Grid Layout
+- ✅ Next Js
+- ✅ Three Js
+- ✅ GSAP
+- ✅ Tailwind CSS
 - ✅ Responsive Design (Mobile-First)
 - ✅ Scroll Animations / Smooth Transitions
 - ✅ Git & GitHub
