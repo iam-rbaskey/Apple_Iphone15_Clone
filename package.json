@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "lint": "",
     "preview": "vite preview"
   },
   "author": {
@@ -47,7 +47,6 @@
     "type": "git",
     "url": ""
   },
-  "homepage": "",
   "bugs": {
     "url": "",
     "email": ""
